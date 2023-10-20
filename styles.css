@@ -1,7 +1,26 @@
 /* Design for all pages */
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:  sans-serif;
+    background-color: #d1bc8a;
+    color: white;
+    text-align: center;
+  }
+/*The links*/
+  a {
+    
+    font-weight: bold;
   }
 
+  img {
+    height: auto;
+    width: 500px;
+  }
+  
+  .dish {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
+  }
   
   
